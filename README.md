@@ -3,22 +3,6 @@
 ## 🎯 Project Overview
 A complete HR analytics solution from raw database to interactive Power BI dashboard. This project extracts, transforms, and analyzes employee data to provide actionable insights for HR decision-making.
 
-## 📁 Project Structure
-HR-Analytics-Dashboard/
-├── data/
-│ ├── raw/ # Original SQL database files
-│ ├── processed/ # Cleaned datasets
-│ └── HR_Analysis.sql # Database schema
-├── notebooks/
-│ └── HR_analysis.ipynb # Python ETL pipeline
-├── sql/
-│ └── HR_mysql.sql # Database scripts
-├── config/
-│ └── .env.example # Environment template
-└── README.md # This file
-
-text
-
 ## 📊 Dashboard Features
 
 ### 🏠 **Home Page - Executive Summary**
